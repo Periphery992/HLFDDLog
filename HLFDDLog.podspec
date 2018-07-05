@@ -4,10 +4,10 @@ Pod::Spec.new do |s|
   s.name         = "HLFDDLog"
   s.version      = "0.0.1"
   s.summary      = "Configure the CocoaLumberjack"
-  s.homepage     = 'https://github.com/Periphery992/HLFUIImageExtension.git'
+  s.homepage     = "https://github.com/Periphery992/HLFDDLog.git"
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  s.license      = { :type => "MIT", :file => "LICENSE" }
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.author             = { "Periphery992" => "chencode992@163.com" }
