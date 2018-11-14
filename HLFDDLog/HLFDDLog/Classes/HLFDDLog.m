@@ -11,6 +11,12 @@
 
 @implementation HLFDDLog
 
++ (void)load
+{
+    [super load];
+    [HLFDDLog configure];
+}
+
 + (void)configure
 {
     DDFileLogger *fileLogger = [[DDFileLogger alloc]init];  //文件输出日志
