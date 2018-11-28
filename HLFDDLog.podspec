@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.name         = "HLFDDLog"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "Configure the CocoaLumberjack"
   s.homepage     = "https://github.com/Periphery992/HLFDDLog.git"
 
